@@ -6,6 +6,9 @@ All the data for this project is from the [Trading Economics API](https://docs.t
 ## Demo:
 Watch the demo video below to see the application in action:
 
+https://github.com/user-attachments/assets/a3e256f9-06c4-405e-adc8-331cf3f50dda
+
+
 ## Frontend:
 - The frontend of the application is built using components from [shadcn/ui](https://ui.shadcn.com), along with other libraries for data visualization and theming.
 
